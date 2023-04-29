@@ -1,0 +1,60 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Redmi Note10 Pro
+Device maintainer: UnmoveD
+
+====================
+     29-04-2023
+====================
+
+-UPDATE VERSION 4.8.3 CALYXOS ANDROID 13
+
+-April 2023 Feature update
+
+-Updater: Add a new channel, called Security express
+
+-Security express: Faster security updates, but potentially lower stability (things might break occasionally)
+
+-Chromium: 112.0.5615.135 (latest stable)
+
+-Firewall: Prevent apps from briefly accessing blocked network types
+
+-Firewall: Rework VPN toggle handling
+
+-Allow limiting biometrics to just screen unlock or just app unlock
+
+-Fix an issue with the sensors off tile and camera
+
+-Fix wrong charging text showing on lockscreen
+
+Camera: Add toggle for front facing camera horizontal flip
+
+====================
+DEVICE CHENGELOG
+====================
+
+-Update blobs from sweet V14.0.2.0.TKFEUXM
+
+-Miuicamera  default
+
+-Switch Kernel Aghisna R11
+
+-Oneplus Dolby Default
+
+-microG is Default
+
+-Sweet Parts (DeviceSettings) Included
+
+====================
+Credits:
+====================
+
+@RooGhz720 For Kernel Source.
+
+@Aryannn999 Device Tree and MiuiCamera.
+
+@zaidkhan0997 You've been very helpful.
+
+@JYR_RC thank you for helping me with everything.
+
+@Sumitdon2004 For Testing.
