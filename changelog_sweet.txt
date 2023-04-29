@@ -37,7 +37,7 @@ DEVICE CHENGELOG
 
 -Miuicamera  default
 
--Switch Kernel Aghisna R11
+-Switch Kernel Aghisna R12
 
 -Oneplus Dolby Default
 
