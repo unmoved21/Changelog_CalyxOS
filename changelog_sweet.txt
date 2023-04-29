@@ -33,7 +33,7 @@ Camera: Add toggle for front facing camera horizontal flip
 DEVICE CHENGELOG
 ====================
 
--Update blobs from sweet V14.0.2.0.TKFEUXM
+-Update blobs from sweet V14.0.2.0.TKFMIXM
 
 -Miuicamera  default
 
