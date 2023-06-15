@@ -4,6 +4,19 @@ Device: Xiaomi Redmi Note10 Pro
 Device maintainer: UnmoveD
 
 ====================
+     15-06-2023
+====================
+
+-UPDATE VERSION 4.10.1 CALYXOS ANDROID 13
+-CalyxOS 4.10.1
+-June 2023 Security update
+-Google has not released the June 2023 Security update for Pixels yet
+-However they published the Security Bulletin (which contains a list of the bugs fixed), and
+-They did release updates for some of the open source componenets to AOSP, which we’ve included.
+-Chromium 114.0.5735.60 (latest stable)
+-Updates for various included system apps
+
+====================
      29-04-2023
 ====================
 
